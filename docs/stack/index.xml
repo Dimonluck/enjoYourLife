@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stack on Personal Digital Garden</title>
     <link>https://dimonluck.github.io/enjoYourLife/stack/</link>
     <description>Recent content in Stack on Personal Digital Garden</description>
+    <image>
+      <url>https://dimonluck.github.io/digital-garden-logo.png</url>
+      <link>https://dimonluck.github.io/digital-garden-logo.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://dimonluck.github.io/enjoYourLife/stack/index.xml" rel="self" type="application/rss+xml" />
   </channel>
